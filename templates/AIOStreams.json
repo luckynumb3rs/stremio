@@ -440,23 +440,6 @@
         }
       },
       {
-        "__if": "services.torbox and inputs.httpAddons != only",
-        "type": "torbox-search",
-        "instanceId": "tbs",
-        "enabled": true,
-        "options": {
-          "name": "TB Search",
-          "timeout": "{{inputs.timeout}}",
-          "sources": [
-            "torrent"
-          ],
-          "mediaTypes": [],
-          "userSearchEngines": true,
-          "onlyShowUserSearchResults": false,
-          "useMultipleInstances": false
-        }
-      },
-      {
         "__if": "services and inputs.debridio and inputs.httpAddons != only",
         "type": "debridio",
         "instanceId": "deb",
