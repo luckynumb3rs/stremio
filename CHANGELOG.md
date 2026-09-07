@@ -7,6 +7,10 @@ title: "📜 Changelog"
 
 ## 📚 AIOStreams
 
+### 2.0.10 (2026-09-07)
+
+- Updated **TamTaro's** synced URLs.
+
 ### 2.0.9 (2026-06-18)
 
 - Changed the *Colored Icons* for size into 💾 in the **Formatter**.

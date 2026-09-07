@@ -7,7 +7,7 @@
     "sourceUrl": "https://numb3rs.stream/templates/AIOStreams-Formatter.json",
     "changelogUrl": "https://numb3rs.stream/templates/AIOStreams-Changelog.md",
     "author": "Lucky Numb3rs",
-    "version": "2.0.9",
+    "version": "2.0.10",
     "category": "Formatter",
     "serviceRequired": false,
     "inputs": [

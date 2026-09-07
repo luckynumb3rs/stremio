@@ -7,7 +7,7 @@
     "sourceUrl": "https://numb3rs.stream/templates/AIOStreams.json",
     "changelogUrl": "https://numb3rs.stream/templates/AIOStreams-Changelog.md",
     "author": "Lucky Numb3rs",
-    "version": "2.0.9",
+    "version": "2.0.10",
     "category": "Full",
     "serviceRequired": false,
     "inputs": [
@@ -1086,16 +1086,16 @@
       "enabled": true
     },
     "syncedExcludedStreamExpressionUrls": [
-      "https://raw.githubusercontent.com/Tam-Taro/SEL-Filtering-and-Sorting/refs/heads/main/AIOStreams-SyncedURLs/Tamtaro-synced-ESEs-extended.json"
+      "https://git.tamtaro.de/ESE.json"
     ],
     "syncedIncludedStreamExpressionUrls": [
-      "https://raw.githubusercontent.com/Tam-Taro/SEL-Filtering-and-Sorting/refs/heads/main/AIOStreams-SyncedURLs/Tamtaro-synced-ISEs.json"
+      "https://git.tamtaro.de/ISE.json"
     ],
     "syncedPreferredStreamExpressionUrls": [
-      "https://raw.githubusercontent.com/Tam-Taro/SEL-Filtering-and-Sorting/refs/heads/main/AIOStreams-SyncedURLs/Tamtaro-synced-PSEs.json"
+      "https://git.tamtaro.de/PSE.json"
     ],
     "syncedExcludedRegexUrls": [
-      "https://raw.githubusercontent.com/Tam-Taro/SEL-Filtering-and-Sorting/refs/heads/main/AIOStreams-SyncedURLs/Tamtaro-synced-excluded-regex.json"
+      "https://git.tamtaro.de/Excluded-Regex.json"
     ],
     "syncedRankedRegexUrls": [
       "https://raw.githubusercontent.com/Vidhin05/Releases-Regex/main/English/regexes.json"
